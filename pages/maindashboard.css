@@ -1,0 +1,11 @@
+.dashboard {
+    background-color: #cacaca4b;
+}
+
+h1 {
+    text-align: center;
+}
+
+.dashboard-items li {
+    display: block;
+}
